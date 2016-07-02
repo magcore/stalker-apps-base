@@ -1,6 +1,6 @@
 {
     "name": "mag-apps-base",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Meta-package with all base applications.",
     "author": {
         "name": "Stanislav Kalashnik",
