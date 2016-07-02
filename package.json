@@ -1,6 +1,6 @@
 {
     "name": "mag-apps-base",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Meta-package with all base applications.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -11,7 +11,7 @@
         "url": "https://github.com/magsdk/apps-base.git"
     },
     "dependencies": {
-        "mag-core": "1.0.3",
+        "mag-core": "1.0.4",
         "mag-launcher": "1.0.0",
         "mag-app-task-manager": "1.0.0",
         "mag-app-stalker-api": "1.0.0",
