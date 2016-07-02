@@ -27,7 +27,8 @@
     "keywords": [
         "magsdk",
         "applications",
-        "base"
+        "base",
+        "stalker"
     ],
     "license": "GPL-3.0"
 }
