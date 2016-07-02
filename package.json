@@ -11,7 +11,18 @@
         "url": "https://github.com/magsdk/apps-base.git"
     },
     "dependencies": {
-
+        "mag-core": "1.0.3",
+        "mag-launcher": "1.0.0",
+        "mag-app-task-manager": "1.0.0",
+        "mag-app-stalker-api": "1.0.0",
+        "mag-app-downloads": "1.0.1",
+        "mag-app-explorer": "1.0.5",
+        "mag-app-karaoke": "1.0.6",
+        "mag-app-player": "1.0.0",
+        "mag-app-pvr": "1.0.1",
+        "mag-app-radio": "1.0.3",
+        "mag-app-video-club": "1.0.0",
+        "mag-app-weather": "1.0.3"
     },
     "keywords": [
         "magsdk",
