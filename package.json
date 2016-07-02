@@ -22,7 +22,8 @@
         "mag-app-pvr": "1.0.1",
         "mag-app-radio": "1.0.3",
         "mag-app-video-club": "1.0.0",
-        "mag-app-weather": "1.0.3"
+        "mag-app-weather": "1.0.3",
+        "mag-theme-graphite": "1.0.1"
     },
     "keywords": [
         "magsdk",
