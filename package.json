@@ -1,6 +1,6 @@
 {
     "name": "mag-apps-base",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "Meta-package with all base applications.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -25,7 +25,7 @@
         "mag-app-weather": "1.0.3",
         "mag-theme-graphite": "1.0.1",
         "mag-app-player": "1.0.0",
-        "mag-app-stalker-api": "1.0.0"
+        "mag-app-stalker-api": "1.0.1"
     },
     "keywords": [
         "magsdk",
