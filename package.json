@@ -1,6 +1,6 @@
 {
     "name": "mag-apps-base",
-    "version": "0.0.15",
+    "version": "0.0.16",
     "description": "Meta-package with all base applications.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -27,7 +27,7 @@
         "mag-app-stalker-api": "1.0.1",
         "mag-app-task-manager": "1.0.1",
         "mag-theme-chocolate": "1.0.3",
-        "mag-theme-graphite": "1.0.3"
+        "mag-theme-graphite": "1.0.4"
     },
     "keywords": [
         "magsdk",
