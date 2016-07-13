@@ -1,6 +1,6 @@
 {
     "name": "mag-apps-base",
-    "version": "0.0.21",
+    "version": "0.0.22",
     "description": "Meta-package with all base applications.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -29,7 +29,7 @@
         "mag-app-2048": "1.0.0",
         "mag-app-ex-ua": "2.1.20",
         "mag-app-player": "1.0.5",
-        "mag-app-stalker-api": "1.0.1",
+        "mag-app-stalker-api": "1.0.2",
         "mag-app-task-manager": "1.0.1",
         "mag-theme-graphite": "1.0.4"
     },
