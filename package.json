@@ -1,6 +1,6 @@
 {
     "name": "mag-apps-base",
-    "version": "0.0.24",
+    "version": "0.0.25",
     "description": "Meta-package with all base applications.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -13,7 +13,7 @@
     "dependencies": {
         "mag-core": "1.0.8",
         "mag-launcher": "1.0.1",
-        "mag-app-tv": "1.0.5",
+        "mag-app-tv": "1.0.6",
         "mag-app-video-club": "1.1.9",
         "mag-app-audio-club": "1.1.7",
         "mag-app-radio": "1.1.1",
@@ -21,8 +21,8 @@
         "mag-app-explorer": "1.1.0",
         "mag-app-downloads": "1.0.2",
         "mag-app-pvr": "1.0.3",
-        "mag-app-weather": "1.0.8",
-        "mag-app-stalker-settings": "1.0.2",
+        "mag-app-weather": "1.0.9",
+        "mag-app-stalker-settings": "1.0.3",
         "mag-app-lines": "1.0.4",
         "mag-app-sudoku": "1.0.0",
         "mag-app-memory": "1.0.0",
