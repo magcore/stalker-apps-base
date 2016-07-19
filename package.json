@@ -1,6 +1,6 @@
 {
     "name": "mag-apps-base",
-    "version": "0.0.27",
+    "version": "0.0.28",
     "description": "Meta-package with all base applications.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -22,7 +22,7 @@
         "mag-app-downloads": "1.0.2",
         "mag-app-pvr": "1.0.3",
         "mag-app-weather": "1.0.9",
-        "mag-app-stalker-settings": "1.0.3",
+        "mag-app-stalker-settings": "1.0.4",
         "mag-app-lines": "1.0.4",
         "mag-app-sudoku": "1.0.0",
         "mag-app-memory": "1.0.0",
