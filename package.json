@@ -1,40 +1,40 @@
 {
-    "name": "mag-apps-base",
-    "version": "0.0.28",
-    "description": "Meta-package with all base applications.",
+    "name": "stalker-apps-base",
+    "version": "5.0.4",
+    "description": "MAG Core Platform meta-package with all base applications.",
     "author": {
-        "name": "Stanislav Kalashnik",
-        "email": "darkpark.main@gmail.com"
+        "name": "Infomir",
+        "email": "support@infomir.eu"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/magsdk/apps-base.git"
+        "url": "https://github.com/magcore/stalker-apps-base.git"
     },
     "dependencies": {
-        "mag-core": "1.0.9",
-        "mag-launcher": "1.0.1",
-        "mag-app-tv": "1.0.6",
-        "mag-app-video-club": "1.1.9",
-        "mag-app-audio-club": "1.1.7",
-        "mag-app-radio": "1.1.1",
-        "mag-app-karaoke": "1.1.2",
-        "mag-app-explorer": "1.1.0",
-        "mag-app-downloads": "1.0.2",
-        "mag-app-pvr": "1.0.3",
-        "mag-app-weather": "1.0.9",
-        "mag-app-stalker-settings": "1.0.4",
-        "mag-app-lines": "1.0.4",
-        "mag-app-sudoku": "1.0.0",
-        "mag-app-memory": "1.0.0",
-        "mag-app-2048": "1.0.0",
-        "mag-app-ex-ua": "2.1.24",
-        "mag-app-player": "1.0.5",
-        "mag-app-stalker-api": "1.0.4",
-        "mag-app-task-manager": "1.0.1",
-        "mag-theme-graphite": "1.0.4"
+        "magcore-core": "1.0.9",
+        "magcore-launcher": "1.0.1",
+        "magcore-app-tv": "1.0.6",
+        "magcore-app-video-club": "1.1.9",
+        "magcore-app-audio-club": "1.1.7",
+        "magcore-app-radio": "1.1.1",
+        "magcore-app-karaoke": "1.1.2",
+        "magcore-app-explorer": "1.1.0",
+        "magcore-app-downloads": "1.0.2",
+        "magcore-app-pvr": "1.0.3",
+        "magcore-app-weather": "1.0.9",
+        "magcore-app-stalker-settings": "1.0.4",
+        "magcore-app-lines": "1.0.4",
+        "magcore-app-sudoku": "1.0.0",
+        "magcore-app-memory": "1.0.0",
+        "magcore-app-2048": "1.0.0",
+        "magcore-app-ex-ua": "2.1.24",
+        "magcore-app-player": "1.0.5",
+        "magcore-app-stalker-api": "1.0.4",
+        "magcore-app-task-manager": "1.0.1",
+        "magcore-theme-graphite": "1.0.4"
     },
     "keywords": [
-        "magsdk",
+        "magcore",
         "applications",
         "base",
         "stalker"
