@@ -35,6 +35,7 @@
         "magcore-osd-input": "1.1.0",
         "magcore-osd-keyboard": "1.1.0",
         "magcore-osd-tv": "1.1.0",
+        "magcore-osd-pip": "1.1.0",
         "magcore-plugin-backend-tv-stalker": "1.1.2",
         "magcore-plugin-download-manager": "1.0.3",
         "magcore-plugin-fs": "1.1.0",
