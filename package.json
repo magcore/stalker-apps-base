@@ -13,6 +13,7 @@
     "dependencies": {
         "magcore-app-2048": "2.1.1",
         "magcore-app-audio-club": "1.2.2",
+        "magcore-app-auth-stalker": "2.1.0",
         "magcore-app-downloads": "1.0.8",
         "magcore-app-explorer": "1.1.14",
         "magcore-app-launcher": "1.2.0",
