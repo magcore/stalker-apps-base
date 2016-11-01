@@ -11,15 +11,15 @@
         "url": "https://github.com/magcore/stalker-apps-base.git"
     },
     "dependencies": {
-        "magcore-app-tv": "2.1.2",
+        "magcore-app-tv": "2.1.3",
         "magcore-app-video-club": "1.3.1",
         "magcore-app-audio-club": "1.2.2",
-        "magcore-app-radio": "1.1.19",
-        "magcore-app-karaoke": "1.1.12",
-        "magcore-app-explorer": "1.1.14",
+        "magcore-app-radio": "1.1.20",
+        "magcore-app-karaoke": "1.1.13",
+        "magcore-app-explorer": "1.1.16",
         "magcore-app-downloads": "1.0.10",
         "magcore-app-records": "1.0.13",
-        "magcore-app-weather": "1.0.13",
+        "magcore-app-weather": "1.0.14",
         "magcore-app-settings": "1.2.0",
         "magcore-app-lines": "2.1.2",
         "magcore-app-sudoku": "2.1.1",
@@ -45,8 +45,8 @@
         "magcore-plugin-ufs": "1.1.0",
         "magcore-plugin-ufs-json": "1.1.0",
         "magcore-plugin-upnp": "1.1.2",
-        "magcore-theme-chocolate": "1.2.2",
-        "magcore-theme-graphite": "1.2.2"
+        "magcore-theme-chocolate": "1.2.3",
+        "magcore-theme-graphite": "1.2.3"
     },
     "keywords": [
         "magcore",
