@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * @author Stanislav Kalashnik <darkpark.main@gmail.com>
+ * @author Igor Zapororzhets <deadbyelpy@gmail.com>
  * @license GNU GENERAL PUBLIC LICENSE Version 3
  */
 
