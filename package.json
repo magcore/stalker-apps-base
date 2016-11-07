@@ -52,11 +52,6 @@
         "ip": "^1.1.4",
         "static-server": "^2.0.3"
     },
-    "scripts": {
-        "build-config": "./bin/cli.js ",
-        "run": "./node_modules/static-server/bin/static-server.js -p",
-        "update": "./bin/update.js"
-    },
     "keywords": [
         "magcore",
         "applications",
