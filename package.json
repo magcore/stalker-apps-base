@@ -46,9 +46,7 @@
         "magcore-plugin-ufs-json": "1.1.0",
         "magcore-plugin-upnp": "1.1.2",
         "magcore-theme-chocolate": "1.2.6",
-        "magcore-theme-graphite": "1.2.6",
-        "ip": "1.1.4",
-        "static-server": "2.0.3"
+        "magcore-theme-graphite": "1.2.6"
     },
     "devDependencies": {
         "ip": "^1.1.4",
