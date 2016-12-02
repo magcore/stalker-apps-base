@@ -1,6 +1,6 @@
 {
     "name": "stalker-apps-base",
-    "version": "5.0.4",
+    "version": "5.1.0",
     "description": "MAG Core Platform meta-package with all base applications.",
     "author": {
         "name": "Infomir",
@@ -13,7 +13,7 @@
     "dependencies": {
         "magcore-app-tv": "2.1.19",
         "magcore-app-video-club": "1.3.12",
-        "magcore-app-audio-club": "1.2.11",
+        "magcore-app-audio-club": "1.2.12",
         "magcore-app-radio": "1.1.27",
         "magcore-app-karaoke": "1.1.19",
         "magcore-app-explorer": "1.1.29",
