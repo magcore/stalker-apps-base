@@ -1,6 +1,6 @@
 {
     "name": "stalker-apps-base",
-    "version": "5.1.1-r20170215",
+    "version": "5.1.1-r20170216",
     "description": "MAG Core Platform meta-package with all base applications.",
     "author": {
         "name": "Infomir",
